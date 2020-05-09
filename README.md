@@ -1,3 +1,5 @@
+# IF ANY BUGS ARE FOUND...
+Go to [my Support repo](https://github.com/thetechrobo/support) and file an Issue.
 # Hexfind
 Hexfind -- find RGB and hex from a colour, easily
 
