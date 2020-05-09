@@ -1,5 +1,5 @@
 # Hexfind
-Hexfind -- make find RGB and hex from a colour, easy
+Hexfind -- find RGB and hex from a colour, easily
 
 
 # Instructions
@@ -8,8 +8,7 @@ Hexfind -- make find RGB and hex from a colour, easy
 2. Make window active. DO NOT SKIP THIS STEP!
 3. Click X
 4. The tkinter.colorchooser.askcolor() should pop up. Select a colour.
-5. Take note of number printed into terminal
-That is your colour. Format:
+5. Take note of number printed into terminal. That is your colour. Format:  
 `RGB RGB RGB 'HEX'`
 
 Enjoy!
